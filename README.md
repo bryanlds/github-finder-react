@@ -1,7 +1,7 @@
 # Github Finder
 
 <div align=center margin= auto> 
-  <img src="imagem.png"  width=80%>
+  <img src="img.png"  width=80%>
 </div>
 
 Um projeto feito em React, utilizando Hooks e a api Context
