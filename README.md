@@ -4,12 +4,13 @@
   <img src="img.png"  width=80%>
 </div>
 
-Um projeto feito em React, utilizando Hooks e a api Context
+## Sobre
 
+Projeto que usa a API do Github para buscar usuários da plataforma, construído com React.
 
 ## Por que?
 
-Gostaria de aprender um framework SPA e vi no React grande facilidade. Esse projeto é clássico, existindo de diversas maneiras diferentes na web. Espero que goste desse.
+Gostaria de aprender um framework SPA e vi no React grande facilidade. Esse projeto é clássico, existindo de diversas maneiras na web. Espero que goste desse.
 
 ## Funcionalidades
 
